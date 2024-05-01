@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/DefaultMain.unity
+    guid: 06f7d727e75bae942af1eb69bb48ddfa
+  - enabled: 1
+    path: Assets/Scenes/Earth.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Mars.unity
+    guid: 441c9158272b12540b0a9552dc7ee84b
+  - enabled: 1
+    path: Assets/Scenes/Mercury.unity
+    guid: 8928b91028fd4b84ba614257ad281ab3
+  - enabled: 1
+    path: Assets/Scenes/Jupiter.unity
+    guid: 77fde7bc549e49344a855dfab81ef3cf
+  - enabled: 1
+    path: Assets/Scenes/Saturn.unity
+    guid: 6a229c211f5a620439a112a8cfbdddd3
+  - enabled: 1
+    path: Assets/Scenes/Uranus.unity
+    guid: 4395bd1a8d11ac847972eb3be2f28a15
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 96c10f8ae185d2d48a99497d75d71b26, type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 667184a33062fe745b71e2d70397c466, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 5d6a579923079bc449bbc300e98f8ab1, type: 2}
+    xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: 00d5876426b27d04d9199f1ff6d42aa1, type: 2}
